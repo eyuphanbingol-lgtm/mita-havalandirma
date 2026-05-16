@@ -13,8 +13,8 @@ export default function HomeContact() {
     { 
       icon: Mail, 
       label: "E-posta", 
-      value: "mekanikmita@gmail.com", 
-      href: "mailto:mekanikmita@gmail.com" 
+      value: "iletisim@mitahavalandirma.com", 
+      href: "mailto:iletisim@mitahavalandirma.com" 
     },
     { 
       icon: Clock, 

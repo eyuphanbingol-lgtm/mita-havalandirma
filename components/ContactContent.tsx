@@ -38,9 +38,9 @@ const contactInfo = [
   {
     icon: Mail,
     title: "E-posta",
-    value: "mekanikmita@gmail.com",
+    value: "iletisim@mitahavalandirma.com",
     desc: "Proje ve teklifleriniz için",
-    href: "mailto:mekanikmita@gmail.com",
+    href: "mailto:iletisim@mitahavalandirma.com",
   },
   {
     icon: Clock,
@@ -306,7 +306,6 @@ export default function ContactContent() {
           <div className="absolute bottom-4 left-4 bg-white rounded-xl p-4 shadow-lg max-w-xs">
             <div className="flex items-center gap-2 mb-2">
               <Navigation className="w-5 h-5 text-primary-600" />
-
               <span className="font-bold text-metal-900">Ofis Konumu</span>
             </div>
 
