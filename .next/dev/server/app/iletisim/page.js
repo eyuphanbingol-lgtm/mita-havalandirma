@@ -1,6 +1,6 @@
 var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/iletisim/page.js")
-R.c("server/chunks/ssr/node_modules_0km023s._.js")
-R.c("server/chunks/ssr/[root-of-the-server]__0nmkd7m._.js")
+R.c("server/chunks/ssr/node_modules_next_dist_esm_09hb5ws._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__094bl6n._.js")
 R.c("server/chunks/ssr/node_modules_next_dist_esm_0gybpgt._.js")
 R.c("server/chunks/ssr/node_modules_next_dist_compiled_07ho8ku._.js")
 R.c("server/chunks/ssr/node_modules_next_dist_server_route-modules_app-page_0f6k0sl._.js")

@@ -3,6 +3,7 @@ import HomeAbout from "@/components/HomeAbout";
 import HomeServices from "@/components/HomeServices";
 import HomeStats from "@/components/HomeStats";
 import HomeContact from "@/components/HomeContact";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <HomeServices />
       <HomeStats />
       <HomeContact />
+      <Footer/>
     </>
   );
 }

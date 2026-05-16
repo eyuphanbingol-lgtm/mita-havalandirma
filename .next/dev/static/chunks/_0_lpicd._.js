@@ -225,7 +225,7 @@ function Navbar() {
         }
     ];
     // Hazır hazır WhatsApp yönlendirme linki (Tıklandığında otomatik mesaj yazar)
-    const whatsappUrl = "https://wa.me/905549241567?text=Merhaba,%20Mita%20Mekanik%20web%20sitenizden%20ulaşıyorum.%20Havalandırma%20sistemleri%20için%20fiyat%20teklifi%20alabilir%20miyim?";
+    const whatsappUrl = "https://wa.me/905360227080?text=Merhaba,%20Mita%20Mekanik%20web%20sitenizden%20ulaşıyorum.%20Havalandırma%20sistemleri%20için%20fiyat%20teklifi%20alabilir%20miyim?";
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
         className: "fixed top-0 left-0 right-0 z-[120] bg-white border-b border-metal-100 shadow-sm py-2",
         children: [
@@ -261,7 +261,7 @@ function Navbar() {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             className: "text-xl font-bold leading-none text-slate-900 tracking-tight",
-                                            children: "MİTA MEKANİK"
+                                            children: "MİTA MÜHENDİSLİK"
                                         }, void 0, false, {
                                             fileName: "[project]/components/Navbar.tsx",
                                             lineNumber: 63,
