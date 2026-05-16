@@ -293,7 +293,7 @@ export default function ContactContent() {
       <section className="py-0">
         <div className="w-full h-[400px] bg-metal-100 relative">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3006.7766159676534!2d41.2725!3d39.9086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406e8f8f0f0f0f0f%3A0x0!2zMzlCsDU0JzMwLjkiTiA0McKwMTYnMjEuMCJF!5e0!3m2!1str!2str!4v1"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3007.2412154388307!2d41.27204487654877!3d39.91136498565593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406e8f498c36ad17%3A0xc07a4ef9940a049f!2zTGFsYXBhxZ9hLCDEsHNtYWlsIFTDvHJrIMSwxZ8gTWVya2V6aSwgMjUwNTAgWWFrdXRpeWUvRXJ6dXJ1bQ!5e0!3m2!1str!2str!4v1715887200000!5m2!1str!2str"
             width="100%"
             height="100%"
             style={{ border: 0 }}
