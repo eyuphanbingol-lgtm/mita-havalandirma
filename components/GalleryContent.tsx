@@ -9,7 +9,7 @@ const images = [
   { src: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800&q=80", title: "Galvaniz Hava Kanalı İmalatı", category: "Hava Kanalları" },
   { src: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80", title: "Spiral Kenetli Hava Kanalları", category: "Hava Kanalları" },
   { src: "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800&q=80", title: "Flanşlı ve Contalı Kanal İmalatı", category: "İmalat Süreçleri" },
-  { src: "https://images.unsplash.com/photo-1631545308772-81a0e0a3a6eb?w=800&q=80", title: "Endüstriyel Tesis Sahası", category: "Saha Montajı" },
+  { src: "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=800&q=80", title: "Endüstriyel Tesis Sahası", category: "Saha Montajı" },
   { src: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80", title: "Özel Ölçü Kanal İmalatları", category: "İmalat Süreçleri" },
   { src: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80", title: "Havalandırma Montaj Çalışması", category: "Saha Montajı" },
 ];

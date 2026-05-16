@@ -41,7 +41,7 @@ export default function Navbar() {
   ];
 
   // Hazır hazır WhatsApp yönlendirme linki (Tıklandığında otomatik mesaj yazar)
-  const whatsappUrl = "https://wa.me/905549241567?text=Merhaba,%20Mita%20Mekanik%20web%20sitenizden%20ulaşıyorum.%20Havalandırma%20sistemleri%20için%20fiyat%20teklifi%20alabilir%20miyim?";
+  const whatsappUrl = "https://wa.me/905360227080?text=Merhaba,%20Mita%20Mekanik%20web%20sitenizden%20ulaşıyorum.%20Havalandırma%20sistemleri%20için%20fiyat%20teklifi%20alabilir%20miyim?";
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-[120] bg-white border-b border-metal-100 shadow-sm py-2">
@@ -61,7 +61,7 @@ export default function Navbar() {
             </div>
             <div className="flex flex-col">
               <span className="text-xl font-bold leading-none text-slate-900 tracking-tight">
-                MİTA MEKANİK
+                MİTA MÜHENDİSLİK
               </span>
               <span className="text-[10px] font-semibold tracking-widest text-primary-600 mt-0.5">
                 HAVALANDIRMA ÇÖZÜMLERİ
