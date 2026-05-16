@@ -6,14 +6,14 @@ export default function HomeContact() {
   const contactInfo = [
     { 
       icon: Phone, 
-      label: "Telefon", 
-      value: "0554 924 15 67", 
-      href: "tel:+905549241567" // Mobil aramalar için uluslararası format uygulandı
+      label: "Telefon & WhatsApp", 
+      value: "0536 022 70 80", 
+      href: "tel:+905360227080" // Mobil aramalar için uluslararası format uygulandı
     },
     { 
       icon: Mail, 
       label: "E-posta", 
-      value: "mekanikmita@gmail.com", // Yeni gmail adresiniz entegre edildi
+      value: "mekanikmita@gmail.com", 
       href: "mailto:mekanikmita@gmail.com" 
     },
     { 
@@ -24,8 +24,8 @@ export default function HomeContact() {
     },
     { 
       icon: MapPin, 
-      label: "Merkez Ofis", 
-      value: "Erzurum, Türkiye", 
+      label: "Ofis & Fabrika", 
+      value: "Yakutiye / Erzurum", 
       href: null 
     },
   ];
@@ -39,8 +39,8 @@ export default function HomeContact() {
           <div className="space-y-8">
             <div>
               <span className="text-sm font-bold text-primary-600 uppercase tracking-wider">İletişim</span>
-              <h2 className="mt-2 text-3xl sm:text-4xl font-bold text-slate-900 tracking-tight">
-                Bizimle İletişime Geçin
+              <h2 className="mt-2 text-2xl sm:text-3xl font-bold text-slate-900 tracking-tight">
+                MİTA HAVALANDIRMA MÜHENDİSLİK İNŞ. TAAH. OTO. SAN. VE TİC. LTD. ŞTİ.
               </h2>
               <p className="mt-4 text-base sm:text-lg text-slate-600 leading-relaxed">
                 Havalandırma, iklimlendirme ve teknik servis ihtiyaçlarınız için profesyonel ekibimizle her zaman yanınızdayız.
@@ -72,13 +72,30 @@ export default function HomeContact() {
                 );
               })}
             </div>
+
+            {/* Ofis ve Fabrika Detaylı Adres Alanı */}
+            <div className="p-6 rounded-2xl bg-slate-50 border border-slate-100 space-y-4">
+              <div>
+                <h4 className="text-xs font-bold text-primary-600 uppercase tracking-wider">Ofis Adresi</h4>
+                <p className="mt-1 text-sm text-slate-700 font-medium">
+                  Lalapaşa Mah. İsmail Türk İş Merkezi No:1/2 Yakutiye / Erzurum
+                </p>
+              </div>
+              <div className="pt-3 border-t border-slate-200">
+                <h4 className="text-xs font-bold text-primary-600 uppercase tracking-wider">Fabrika Adresi</h4>
+                <p className="mt-1 text-sm text-slate-700 font-medium">
+                  Soğukçermik Mahallesi. Küçük Akdağ Sitesi D blok no 3 Yakutiye / Erzurum
+                </p>
+              </div>
+            </div>
+
           </div>
 
           {/* Sağ Kolon - Görsel Alanı */}
           <div className="relative h-[350px] sm:h-[450px] w-full rounded-3xl overflow-hidden shadow-lg shadow-slate-200">
             <Image
               src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=1000&q=80"
-              alt="Mekanik Mita Havalandırma Ofis ve Teknik Destek"
+              alt="Mita Mekanik Havalandırma Ofis ve Teknik Destek"
               fill
               className="object-cover"
               sizes="(max-w: 1024px) 100vw, 50vw"

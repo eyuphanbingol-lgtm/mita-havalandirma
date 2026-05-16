@@ -13,19 +13,19 @@ export default function RegionsContent() {
     {
       name: "Yakutiye",
       slug: "yakutiye",
-      phone: "0507 259 08 04",
-      address: "Yakutiye, Erzurum",
+      phone: "0536 022 70 80",
+      address: "Lalapaşa Mah. İsmail Türk İş Merkezi No:1/2 Yakutiye / Erzurum",
     },
     {
       name: "Palandöken",
       slug: "palandoken",
-      phone: "0507 259 08 04",
+      phone: "0536 022 70 80",
       address: "Palandöken, Erzurum",
     },
     {
       name: "Aziziye",
       slug: "aziziye",
-      phone: "0507 259 08 04",
+      phone: "0536 022 70 80",
       address: "Dadaşkent / Aziziye, Erzurum",
     },
   ];
@@ -73,7 +73,7 @@ export default function RegionsContent() {
                   
                   <div>
                     <h3 className="text-xl font-bold text-metal-900">{region.name}</h3>
-                    <p className="mt-1 text-sm text-metal-500">{region.address}</p>
+                    <p className="mt-1 text-sm text-metal-500 leading-relaxed">{region.address}</p>
                   </div>
                 </div>
 

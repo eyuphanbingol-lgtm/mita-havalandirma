@@ -16,7 +16,7 @@ const jakartaSans = Plus_Jakarta_Sans({
 
 // Global SEO ve Metadata Ayarları (Mita Mekanik Havalandırma Güncel Hali)
 export const metadata: Metadata = {
-  title: "Mita Mekanik | Havalandırma, İklimlendirme ve Baca Sistemleri",
+  title: "Mita Mühendislik | Havalandırma, İklimlendirme ve Baca Sistemleri",
   description: "Erzurum'da endüstriyel mutfak havalandırması, baca, sulu filtre, sığınak havalandırma ve iklimlendirme sistemlerinde profesyonel mekanik çözümler.",
   keywords: [
     "havalandırma", 
