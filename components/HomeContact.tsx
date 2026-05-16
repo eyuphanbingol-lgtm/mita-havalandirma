@@ -2,19 +2,18 @@ import Image from "next/image";
 import { Phone, Mail, Clock, MapPin } from "lucide-react";
 
 export default function HomeContact() {
-  // Sitenize ait güncellenmiş gerçek iletişim bilgileri
   const contactInfo = [
     { 
       icon: Phone, 
       label: "Telefon & WhatsApp", 
       value: "0536 022 70 80", 
-      href: "tel:+905360227080" // Mobil aramalar için uluslararası format uygulandı
+      href: "tel:+905360227080" 
     },
     { 
       icon: Mail, 
       label: "E-posta", 
-      value: "iletisim@mitahavalandirma.com", 
-      href: "mailto:iletisim@mitahavalandirma.com" 
+      value: "iletisim@mitahavalandirma.com", // Ekranda kurumsal yazacak
+      href: "mailto:mitamekanik@gmail.com" // Tıklayınca Gmail'e fırlatacak!
     },
     { 
       icon: Clock, 

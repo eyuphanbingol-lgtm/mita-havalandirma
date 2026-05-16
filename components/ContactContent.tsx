@@ -38,9 +38,9 @@ const contactInfo = [
   {
     icon: Mail,
     title: "E-posta",
-    value: "iletisim@mitahavalandirma.com",
+    value: "iletisim@mitahavalandirma.com", // Ekranda kurumsal gözükecek
     desc: "Proje ve teklifleriniz için",
-    href: "mailto:iletisim@mitahavalandirma.com",
+    href: "mailto:mitamekanik@gmail.com", // Tıklayınca doğrudan buraya gidecek!
   },
   {
     icon: Clock,
