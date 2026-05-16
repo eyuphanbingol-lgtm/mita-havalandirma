@@ -1,0 +1,70 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-679c0940045fed46.js",
+      "static/chunks/4bd1b696-7c52c22bc4abfbe8.js",
+      "static/chunks/517-691ade87ec93d596.js",
+      "static/chunks/main-app-db89a024f30768ff.js",
+      "static/chunks/app/_not-found/page-b1144a7513396145.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-679c0940045fed46.js",
+      "static/chunks/4bd1b696-7c52c22bc4abfbe8.js",
+      "static/chunks/517-691ade87ec93d596.js",
+      "static/chunks/main-app-db89a024f30768ff.js",
+      "static/css/42820845de270ebe.css",
+      "static/chunks/173-06fa0e064a8d592f.js",
+      "static/chunks/528-1210e8d0bd742189.js",
+      "static/chunks/app/layout-2d014a6b2847c455.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-679c0940045fed46.js",
+      "static/chunks/4bd1b696-7c52c22bc4abfbe8.js",
+      "static/chunks/517-691ade87ec93d596.js",
+      "static/chunks/main-app-db89a024f30768ff.js",
+      "static/chunks/173-06fa0e064a8d592f.js",
+      "static/chunks/528-1210e8d0bd742189.js",
+      "static/chunks/app/page-895deb078368a711.js"
+    ],
+    "/bolgeler/page": [
+      "static/chunks/webpack-679c0940045fed46.js",
+      "static/chunks/4bd1b696-7c52c22bc4abfbe8.js",
+      "static/chunks/517-691ade87ec93d596.js",
+      "static/chunks/main-app-db89a024f30768ff.js",
+      "static/chunks/173-06fa0e064a8d592f.js",
+      "static/chunks/app/bolgeler/page-cfd406e5a7c9692f.js"
+    ],
+    "/hakkimizda/page": [
+      "static/chunks/webpack-679c0940045fed46.js",
+      "static/chunks/4bd1b696-7c52c22bc4abfbe8.js",
+      "static/chunks/517-691ade87ec93d596.js",
+      "static/chunks/main-app-db89a024f30768ff.js",
+      "static/chunks/173-06fa0e064a8d592f.js",
+      "static/chunks/app/hakkimizda/page-695b8f3f000a00df.js"
+    ],
+    "/galeri/page": [
+      "static/chunks/webpack-679c0940045fed46.js",
+      "static/chunks/4bd1b696-7c52c22bc4abfbe8.js",
+      "static/chunks/517-691ade87ec93d596.js",
+      "static/chunks/main-app-db89a024f30768ff.js",
+      "static/chunks/173-06fa0e064a8d592f.js",
+      "static/chunks/app/galeri/page-c6ff710b92580d90.js"
+    ],
+    "/iletisim/page": [
+      "static/chunks/webpack-679c0940045fed46.js",
+      "static/chunks/4bd1b696-7c52c22bc4abfbe8.js",
+      "static/chunks/517-691ade87ec93d596.js",
+      "static/chunks/main-app-db89a024f30768ff.js",
+      "static/chunks/173-06fa0e064a8d592f.js",
+      "static/chunks/app/iletisim/page-7e2057d61a2436d2.js"
+    ],
+    "/hizmetlerimiz/page": [
+      "static/chunks/webpack-679c0940045fed46.js",
+      "static/chunks/4bd1b696-7c52c22bc4abfbe8.js",
+      "static/chunks/517-691ade87ec93d596.js",
+      "static/chunks/main-app-db89a024f30768ff.js",
+      "static/chunks/173-06fa0e064a8d592f.js",
+      "static/chunks/app/hizmetlerimiz/page-74240f35d3d80fab.js"
+    ]
+  }
+}
